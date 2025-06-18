@@ -1,14 +1,5 @@
 # Simple Git Bash Shell Exercises - Input/Transform/Verify
 
-## Setup Instructions
-```bash
-cd ~
-mkdir shell_practice
-cd shell_practice
-```
-
----
-
 ## Exercise 1: Basic Sorting and Numbering
 **Goal:** Learn `sort` and `nl` commands
 
