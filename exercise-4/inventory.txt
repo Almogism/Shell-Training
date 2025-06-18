@@ -1,8 +1,0 @@
-Laptop 15 899.99
-Mouse 45 25.50
-Keyboard 30 75.00
-Monitor 8 299.99
-Headphones 22 129.99
-Webcam 12 89.99
-Speaker 18 199.99
-Tablet 25 449.99

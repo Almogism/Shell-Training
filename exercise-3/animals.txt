@@ -1,0 +1,7 @@
+cat
+dog
+elephant
+bird
+fish
+eagle
+tiger

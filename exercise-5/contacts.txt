@@ -1,6 +1,0 @@
-john smith; john.smith@email.com; 555-0123
-SARAH JOHNSON; sarah.j@email.com; (555) 456-7890  
-mike wilson; mike.w@email.com; 555.789.0123
-Lisa Brown; lisa.brown@email.com; 555-321-0987
-TOM DAVIS; tom.davis@email.com; 5550147
-emma white; emma.w@email.com; 555-852-9630
